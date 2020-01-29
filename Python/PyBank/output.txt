@@ -1,0 +1,5 @@
+Total number of Months: 86
+Cumulative Row Total: 38382578.0
+Average Profit/Loss: 446309.05
+Greatest Increase in profit for Feb-2012: 1170593
+Greatest Decrease in profit for Sep-2013: -1196225

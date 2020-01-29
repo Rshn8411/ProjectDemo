@@ -1,0 +1,2156 @@
+-----City information:------
+ID: 4035715
+Name:Avarua
+----------------------------
+-----City information:------
+ID: 86049
+Name:Jalu
+----------------------------
+-----City information:------
+ID: 2122090
+Name:Pevek
+----------------------------
+-----City information:------
+ID: 986717
+Name:Kruisfontein
+----------------------------
+-----City information:------
+ID: 3372707
+Name:Ribeira Grande
+----------------------------
+-----City information:------
+ID: 2206939
+Name:Bluff
+----------------------------
+-----City information:------
+ID: 2121025
+Name:Srednekolymsk
+----------------------------
+-----City information:------
+ID: 6201424
+Name:Mataura
+----------------------------
+-----City information:------
+ID: 3366880
+Name:Hermanus
+----------------------------
+-----City information:------
+ID: 5106841
+Name:Albany
+----------------------------
+-----City information:------
+ID: 4030556
+Name:Rikitea
+----------------------------
+-----City information:------
+ID: 6089245
+Name:Norman Wells
+----------------------------
+-----City information:------
+ID: 101312
+Name:Turaif
+----------------------------
+-----City information:------
+ID: 1855612
+Name:Nara
+----------------------------
+-----City information:------
+ID: 3874787
+Name:Punta Arenas
+----------------------------
+-----City information:------
+ID: 5916821
+Name:Cardston
+----------------------------
+-----City information:------
+ID: 1254709
+Name:Tezu
+----------------------------
+-----City information:------
+ID: 3424607
+Name:Tasiilaq
+----------------------------
+-----City information:------
+ID: 1489209
+Name:Troitskoye
+----------------------------
+-----City information:------
+ID: 6165406
+Name:Thompson
+----------------------------
+-----City information:------
+ID: 2075265
+Name:Busselton
+----------------------------
+-----City information:------
+ID: 2070998
+Name:Geraldton
+----------------------------
+-----City information:------
+ID: 1806840
+Name:Huilong
+----------------------------
+-----City information:------
+ID: 3833367
+Name:Ushuaia
+----------------------------
+-----City information:------
+ID: 3386213
+Name:Touros
+----------------------------
+-----City information:------
+ID: 738803
+Name:Terme
+----------------------------
+-----City information:------
+ID: 2155415
+Name:New Norfolk
+----------------------------
+-----City information:------
+ID: 2322794
+Name:Suleja
+----------------------------
+-----City information:------
+ID: 1517060
+Name:Zaysan
+----------------------------
+-----City information:------
+ID: 2109528
+Name:Buala
+----------------------------
+-----City information:------
+ID: 4032243
+Name:Vaini
+----------------------------
+-----City information:------
+ID: 2126199
+Name:Cherskiy
+----------------------------
+-----City information:------
+ID: 1282256
+Name:Hithadhoo
+----------------------------
+-----City information:------
+ID: 3430863
+Name:Mar del Plata
+----------------------------
+-----City information:------
+ID: 964432
+Name:Port Alfred
+----------------------------
+-----City information:------
+ID: 2455290
+Name:Kidal
+----------------------------
+-----City information:------
+ID: 2414055
+Name:Youkounkoun
+----------------------------
+-----City information:------
+ID: 2092164
+Name:Lorengau
+----------------------------
+-----City information:------
+ID: 2735943
+Name:Porto
+----------------------------
+-----City information:------
+ID: 1045114
+Name:Inhambane
+----------------------------
+-----City information:------
+ID: 3466704
+Name:Castro
+----------------------------
+-----City information:------
+ID: 1283334
+Name:Birin
+----------------------------
+-----City information:------
+ID: 3441575
+Name:Montevideo
+----------------------------
+-----City information:------
+ID: 7372400
+Name:Weihe
+----------------------------
+-----City information:------
+ID: 5546220
+Name:Saint George
+----------------------------
+-----City information:------
+ID: 3471451
+Name:Arraial do Cabo
+----------------------------
+-----City information:------
+ID: 1496511
+Name:Novyy Urengoy
+----------------------------
+-----City information:------
+ID: 1649150
+Name:Bengkulu
+----------------------------
+-----City information:------
+ID: 3412093
+Name:Vestmannaeyjar
+----------------------------
+-----City information:------
+ID: 1262995
+Name:Mirzapur
+----------------------------
+-----City information:------
+ID: 5848280
+Name:Kapaa
+----------------------------
+-----City information:------
+ID: 2112309
+Name:Katsuura
+----------------------------
+-----City information:------
+ID: 3831208
+Name:Qaanaaq
+----------------------------
+-----City information:------
+ID: 2192362
+Name:Christchurch
+----------------------------
+-----City information:------
+ID: 780687
+Name:Berlevag
+----------------------------
+-----City information:------
+ID: 2208248
+Name:Kaitangata
+----------------------------
+-----City information:------
+ID: 4013679
+Name:Coahuayana Viejo
+----------------------------
+-----City information:------
+ID: 135423
+Name:Shahrud
+----------------------------
+-----City information:------
+ID: 2392087
+Name:Porto-Novo
+----------------------------
+-----City information:------
+ID: 3351663
+Name:Benguela
+----------------------------
+-----City information:------
+ID: 2022572
+Name:Khatanga
+----------------------------
+-----City information:------
+ID: 5282297
+Name:Bethel
+----------------------------
+-----City information:------
+ID: 2017155
+Name:Saskylakh
+----------------------------
+-----City information:------
+ID: 5122534
+Name:Jamestown
+----------------------------
+-----City information:------
+ID: 2110227
+Name:Butaritari
+----------------------------
+-----City information:------
+ID: 3369157
+Name:Cape Town
+----------------------------
+-----City information:------
+ID: 1276901
+Name:Barmer
+----------------------------
+-----City information:------
+ID: 4034496
+Name:Fare
+----------------------------
+-----City information:------
+ID: 4978701
+Name:Skowhegan
+----------------------------
+-----City information:------
+ID: 5467328
+Name:Farmington
+----------------------------
+-----City information:------
+ID: 2163355
+Name:Hobart
+----------------------------
+-----City information:------
+ID: 5392171
+Name:San Jose
+----------------------------
+-----City information:------
+ID: 2152659
+Name:Port Macquarie
+----------------------------
+-----City information:------
+ID: 1006984
+Name:East London
+----------------------------
+-----City information:------
+ID: 2123814
+Name:Leningradskiy
+----------------------------
+-----City information:------
+ID: 3137469
+Name:Sorland
+----------------------------
+-----City information:------
+ID: 1505991
+Name:Igarka
+----------------------------
+-----City information:------
+ID: 2122262
+Name:Palana
+----------------------------
+-----City information:------
+ID: 3374210
+Name:Sao Filipe
+----------------------------
+-----City information:------
+ID: 5866583
+Name:Kodiak
+----------------------------
+-----City information:------
+ID: 4362001
+Name:Mayo
+----------------------------
+-----City information:------
+ID: 1264976
+Name:Leh
+----------------------------
+-----City information:------
+ID: 5110092
+Name:Brewster
+----------------------------
+-----City information:------
+ID: 2015306
+Name:Tiksi
+----------------------------
+-----City information:------
+ID: 1785738
+Name:Yuncheng
+----------------------------
+-----City information:------
+ID: 3427761
+Name:Tigre
+----------------------------
+-----City information:------
+ID: 2381972
+Name:Adrar
+----------------------------
+-----City information:------
+ID: 4034551
+Name:Faanui
+----------------------------
+-----City information:------
+ID: 3361934
+Name:Saldanha
+----------------------------
+-----City information:------
+ID: 2015179
+Name:Tommot
+----------------------------
+-----City information:------
+ID: 3897774
+Name:Buin
+----------------------------
+-----City information:------
+ID: 1215502
+Name:Banda Aceh
+----------------------------
+-----City information:------
+ID: 107304
+Name:Buraidah
+----------------------------
+-----City information:------
+ID: 863061
+Name:Usinsk
+----------------------------
+-----City information:------
+ID: 934322
+Name:Mahebourg
+----------------------------
+-----City information:------
+ID: 1529651
+Name:Altay
+----------------------------
+-----City information:------
+ID: 2122614
+Name:Ekhabi
+----------------------------
+-----City information:------
+ID: 1507390
+Name:Dikson
+----------------------------
+-----City information:------
+ID: 3893726
+Name:Constitucion
+----------------------------
+-----City information:------
+ID: 2374583
+Name:Bubaque
+----------------------------
+-----City information:------
+ID: 2264557
+Name:Ponta do Sol
+----------------------------
+-----City information:------
+ID: 4419500
+Name:Brookhaven
+----------------------------
+-----City information:------
+ID: 1714733
+Name:Dingle
+----------------------------
+-----City information:------
+ID: 1520253
+Name:Zharkent
+----------------------------
+-----City information:------
+ID: 4031574
+Name:Provideniya
+----------------------------
+-----City information:------
+ID: 4021858
+Name:Guerrero Negro
+----------------------------
+-----City information:------
+ID: 3356832
+Name:Henties Bay
+----------------------------
+-----City information:------
+ID: 964420
+Name:Port Elizabeth
+----------------------------
+-----City information:------
+ID: 3432043
+Name:La Plata
+----------------------------
+-----City information:------
+ID: 2018735
+Name:Nyurba
+----------------------------
+-----City information:------
+ID: 981827
+Name:Louis Trichardt
+----------------------------
+-----City information:------
+ID: 3414079
+Name:Olafsvik
+----------------------------
+-----City information:------
+ID: 1265888
+Name:Kovur
+----------------------------
+-----City information:------
+ID: 1489656
+Name:Teya
+----------------------------
+-----City information:------
+ID: 2136825
+Name:Isangel
+----------------------------
+-----City information:------
+ID: 3578447
+Name:Sainte-Rose
+----------------------------
+-----City information:------
+ID: 525426
+Name:Sobolevo
+----------------------------
+-----City information:------
+ID: 5866063
+Name:Kenai
+----------------------------
+-----City information:------
+ID: 2026861
+Name:Berdigestyakh
+----------------------------
+-----City information:------
+ID: 1106677
+Name:Bambous Virieux
+----------------------------
+-----City information:------
+ID: 230893
+Name:Kitgum
+----------------------------
+-----City information:------
+ID: 4020109
+Name:Atuona
+----------------------------
+-----City information:------
+ID: 2381334
+Name:Atar
+----------------------------
+-----City information:------
+ID: 1506676
+Name:Gari
+----------------------------
+-----City information:------
+ID: 4031742
+Name:Egvekinot
+----------------------------
+-----City information:------
+ID: 2181625
+Name:Te Anau
+----------------------------
+-----City information:------
+ID: 3448903
+Name:Sao Joao da Barra
+----------------------------
+-----City information:------
+ID: 1735106
+Name:George Town
+----------------------------
+-----City information:------
+ID: 3836873
+Name:San Miguel de Tucuman
+----------------------------
+-----City information:------
+ID: 3147822
+Name:Leirvik
+----------------------------
+-----City information:------
+ID: 3652764
+Name:Puerto Ayora
+----------------------------
+-----City information:------
+ID: 324496
+Name:Aksaray
+----------------------------
+-----City information:------
+ID: 2112802
+Name:Hasaki
+----------------------------
+-----City information:------
+ID: 546105
+Name:Nikolskoye
+----------------------------
+-----City information:------
+ID: 6185377
+Name:Yellowknife
+----------------------------
+-----City information:------
+ID: 3374120
+Name:Vila do Maio
+----------------------------
+-----City information:------
+ID: 2074865
+Name:Carnarvon
+----------------------------
+-----City information:------
+ID: 2021031
+Name:Kyren
+----------------------------
+-----City information:------
+ID: 638936
+Name:Rovaniemi
+----------------------------
+-----City information:------
+ID: 368246
+Name:Raja
+----------------------------
+-----City information:------
+ID: 2644037
+Name:Llangefni
+----------------------------
+-----City information:------
+ID: 3924679
+Name:Vilhena
+----------------------------
+-----City information:------
+ID: 1249931
+Name:Beruwala
+----------------------------
+-----City information:------
+ID: 3883457
+Name:Lebu
+----------------------------
+-----City information:------
+ID: 5889745
+Name:Baie-Comeau
+----------------------------
+-----City information:------
+ID: 701802
+Name:Markova
+----------------------------
+-----City information:------
+ID: 286245
+Name:Sur
+----------------------------
+-----City information:------
+ID: 4575352
+Name:Columbia
+----------------------------
+-----City information:------
+ID: 2125693
+Name:Evensk
+----------------------------
+-----City information:------
+ID: 3909234
+Name:Oruro
+----------------------------
+-----City information:------
+ID: 2071860
+Name:Esperance
+----------------------------
+-----City information:------
+ID: 3939168
+Name:Huarmey
+----------------------------
+-----City information:------
+ID: 6067747
+Name:Matagami
+----------------------------
+-----City information:------
+ID: 3839307
+Name:Rawson
+----------------------------
+-----City information:------
+ID: 3372964
+Name:Lagoa
+----------------------------
+-----City information:------
+ID: 1806881
+Name:Huicheng
+----------------------------
+-----City information:------
+ID: 2180815
+Name:Tuatapere
+----------------------------
+-----City information:------
+ID: 132892
+Name:Gorgan
+----------------------------
+-----City information:------
+ID: 1263968
+Name:Manali
+----------------------------
+-----City information:------
+ID: 2078025
+Name:Adelaide
+----------------------------
+-----City information:------
+ID: 2618795
+Name:Klaksvik
+----------------------------
+-----City information:------
+ID: 3899695
+Name:Ancud
+----------------------------
+-----City information:------
+ID: 3948613
+Name:Acari
+----------------------------
+-----City information:------
+ID: 2063056
+Name:Port Augusta
+----------------------------
+-----City information:------
+ID: 5820705
+Name:Casper
+----------------------------
+-----City information:------
+ID: 3407762
+Name:Amapa
+----------------------------
+-----City information:------
+ID: 2126682
+Name:Bilibino
+----------------------------
+-----City information:------
+ID: 1494523
+Name:Polovinnoye
+----------------------------
+-----City information:------
+ID: 2243271
+Name:Cabinda
+----------------------------
+-----City information:------
+ID: 2088659
+Name:Panguna
+----------------------------
+-----City information:------
+ID: 5935804
+Name:Dawson Creek
+----------------------------
+-----City information:------
+ID: 1528998
+Name:Yumen
+----------------------------
+-----City information:------
+ID: 5975004
+Name:High Level
+----------------------------
+-----City information:------
+ID: 2276492
+Name:Harper
+----------------------------
+-----City information:------
+ID: 1214965
+Name:Kabanjahe
+----------------------------
+-----City information:------
+ID: 5969025
+Name:Haines Junction
+----------------------------
+-----City information:------
+ID: 1797132
+Name:Rizhao
+----------------------------
+-----City information:------
+ID: 1623197
+Name:Tual
+----------------------------
+-----City information:------
+ID: 934479
+Name:Grand Gaube
+----------------------------
+-----City information:------
+ID: 4736028
+Name:Terrell
+----------------------------
+-----City information:------
+ID: 2514651
+Name:Los Llanos de Aridane
+----------------------------
+-----City information:------
+ID: 5880054
+Name:Barrow
+----------------------------
+-----City information:------
+ID: 1634614
+Name:Nabire
+----------------------------
+-----City information:------
+ID: 3418910
+Name:Upernavik
+----------------------------
+-----City information:------
+ID: 338998
+Name:Dilla
+----------------------------
+-----City information:------
+ID: 3109254
+Name:Segovia
+----------------------------
+-----City information:------
+ID: 3894426
+Name:Coyhaique
+----------------------------
+-----City information:------
+ID: 286621
+Name:Salalah
+----------------------------
+-----City information:------
+ID: 5853992
+Name:Wahiawa
+----------------------------
+-----City information:------
+ID: 2398283
+Name:Mitzic
+----------------------------
+-----City information:------
+ID: 1267433
+Name:Kattivakkam
+----------------------------
+-----City information:------
+ID: 3440777
+Name:Rocha
+----------------------------
+-----City information:------
+ID: 6170031
+Name:Tuktoyaktuk
+----------------------------
+-----City information:------
+ID: 5861897
+Name:Fairbanks
+----------------------------
+-----City information:------
+ID: 3347019
+Name:Mossamedes
+----------------------------
+-----City information:------
+ID: 3837213
+Name:San Juan
+----------------------------
+-----City information:------
+ID: 1504382
+Name:Kargasok
+----------------------------
+-----City information:------
+ID: 5746545
+Name:Portland
+----------------------------
+-----City information:------
+ID: 1633419
+Name:Padang
+----------------------------
+-----City information:------
+ID: 1015776
+Name:Bredasdorp
+----------------------------
+-----City information:------
+ID: 5367788
+Name:Lompoc
+----------------------------
+-----City information:------
+ID: 2171099
+Name:Codrington
+----------------------------
+-----City information:------
+ID: 1650434
+Name:Bambanglipuro
+----------------------------
+-----City information:------
+ID: 5563839
+Name:Fortuna
+----------------------------
+-----City information:------
+ID: 2016307
+Name:Solnechnyy
+----------------------------
+-----City information:------
+ID: 556463
+Name:Imeni Vorovskogo
+----------------------------
+-----City information:------
+ID: 3381041
+Name:Mana
+----------------------------
+-----City information:------
+ID: 5855927
+Name:Hilo
+----------------------------
+-----City information:------
+ID: 2063036
+Name:Port Lincoln
+----------------------------
+-----City information:------
+ID: 114593
+Name:Susa
+----------------------------
+-----City information:------
+ID: 3419842
+Name:Sisimiut
+----------------------------
+-----City information:------
+ID: 5972291
+Name:Havre-Saint-Pierre
+----------------------------
+-----City information:------
+ID: 3902377
+Name:Trinidad
+----------------------------
+-----City information:------
+ID: 293842
+Name:Kiryat Gat
+----------------------------
+-----City information:------
+ID: 1855540
+Name:Naze
+----------------------------
+-----City information:------
+ID: 3421765
+Name:Nanortalik
+----------------------------
+-----City information:------
+ID: 4505215
+Name:Amberley
+----------------------------
+-----City information:------
+ID: 2236053
+Name:Abong Mbang
+----------------------------
+-----City information:------
+ID: 556268
+Name:Ostrovnoy
+----------------------------
+-----City information:------
+ID: 1163021
+Name:Ubauro
+----------------------------
+-----City information:------
+ID: 1624041
+Name:Ternate
+----------------------------
+-----City information:------
+ID: 2980080
+Name:Saint-Francois
+----------------------------
+-----City information:------
+ID: 2022083
+Name:Alekseyevsk
+----------------------------
+-----City information:------
+ID: 1071296
+Name:Antalaha
+----------------------------
+-----City information:------
+ID: 1185116
+Name:Netrakona
+----------------------------
+-----City information:------
+ID: 1283240
+Name:Kathmandu
+----------------------------
+-----City information:------
+ID: 3183284
+Name:Alghero
+----------------------------
+-----City information:------
+ID: 4830198
+Name:Anniston
+----------------------------
+-----City information:------
+ID: 2090021
+Name:Namatanai
+----------------------------
+-----City information:------
+ID: 3372783
+Name:Ponta Delgada
+----------------------------
+-----City information:------
+ID: 2012530
+Name:Zhigansk
+----------------------------
+-----City information:------
+ID: 4031637
+Name:Lavrentiya
+----------------------------
+-----City information:------
+ID: 2126785
+Name:Belaya Gora
+----------------------------
+-----City information:------
+ID: 5469841
+Name:Grants
+----------------------------
+-----City information:------
+ID: 5392868
+Name:Sanger
+----------------------------
+-----City information:------
+ID: 3377301
+Name:Mabaruma
+----------------------------
+-----City information:------
+ID: 1023309
+Name:Aliwal North
+----------------------------
+-----City information:------
+ID: 933995
+Name:Souillac
+----------------------------
+-----City information:------
+ID: 3354077
+Name:Opuwo
+----------------------------
+-----City information:------
+ID: 687933
+Name:Zachepylivka
+----------------------------
+-----City information:------
+ID: 2137773
+Name:Vao
+----------------------------
+-----City information:------
+ID: 3832899
+Name:Viedma
+----------------------------
+-----City information:------
+ID: 1852357
+Name:Shimoda
+----------------------------
+-----City information:------
+ID: 1502697
+Name:Kondinskoye
+----------------------------
+-----City information:------
+ID: 3533462
+Name:Acapulco de Juarez
+----------------------------
+-----City information:------
+ID: 5554428
+Name:Ketchikan
+----------------------------
+-----City information:------
+ID: 5799571
+Name:Kelso
+----------------------------
+-----City information:------
+ID: 3480908
+Name:La Asuncion
+----------------------------
+-----City information:------
+ID: 2377457
+Name:Nouadhibou
+----------------------------
+-----City information:------
+ID: 72181
+Name:Marzuq
+----------------------------
+-----City information:------
+ID: 5654391
+Name:Glendive
+----------------------------
+-----City information:------
+ID: 2126710
+Name:Beringovskiy
+----------------------------
+-----City information:------
+ID: 5699404
+Name:Scottsbluff
+----------------------------
+-----City information:------
+ID: 710342
+Name:Chutove
+----------------------------
+-----City information:------
+ID: 2119283
+Name:Zyryanka
+----------------------------
+-----City information:------
+ID: 4562635
+Name:Arecibo
+----------------------------
+-----City information:------
+ID: 2664996
+Name:Varberg
+----------------------------
+-----City information:------
+ID: 3517970
+Name:Pochutla
+----------------------------
+-----City information:------
+ID: 5924351
+Name:Clyde River
+----------------------------
+-----City information:------
+ID: 1529484
+Name:Kumul
+----------------------------
+-----City information:------
+ID: 108410
+Name:Riyadh
+----------------------------
+-----City information:------
+ID: 1862505
+Name:Hirara
+----------------------------
+-----City information:------
+ID: 4499379
+Name:Wilmington
+----------------------------
+-----City information:------
+ID: 3628473
+Name:San Cristobal
+----------------------------
+-----City information:------
+ID: 2122614
+Name:Okha
+----------------------------
+-----City information:------
+ID: 2031964
+Name:Darhan
+----------------------------
+-----City information:------
+ID: 5203809
+Name:Northampton
+----------------------------
+-----City information:------
+ID: 4036284
+Name:Alofi
+----------------------------
+-----City information:------
+ID: 2524976
+Name:Cittanova
+----------------------------
+-----City information:------
+ID: 4235193
+Name:Carbondale
+----------------------------
+-----City information:------
+ID: 3146487
+Name:Raudeberg
+----------------------------
+-----City information:------
+ID: 110690
+Name:Faya
+----------------------------
+-----City information:------
+ID: 5859699
+Name:College
+----------------------------
+-----City information:------
+ID: 5364271
+Name:Laguna
+----------------------------
+-----City information:------
+ID: 2127202
+Name:Anadyr
+----------------------------
+-----City information:------
+ID: 2978439
+Name:Saint-Martin-Boulogne
+----------------------------
+-----City information:------
+ID: 3466165
+Name:Cidreira
+----------------------------
+-----City information:------
+ID: 64814
+Name:Bandarbeyla
+----------------------------
+-----City information:------
+ID: 1591474
+Name:Bac Lieu
+----------------------------
+-----City information:------
+ID: 3576994
+Name:Cockburn Town
+----------------------------
+-----City information:------
+ID: 5557293
+Name:Sitka
+----------------------------
+-----City information:------
+ID: 113659
+Name:Tabas
+----------------------------
+-----City information:------
+ID: 7671223
+Name:Kloulklubed
+----------------------------
+-----City information:------
+ID: 3868626
+Name:Valparaiso
+----------------------------
+-----City information:------
+ID: 699328
+Name:Novopokrovka
+----------------------------
+-----City information:------
+ID: 777019
+Name:Vardo
+----------------------------
+-----City information:------
+ID: 2455735
+Name:Kangaba
+----------------------------
+-----City information:------
+ID: 5882953
+Name:Aklavik
+----------------------------
+-----City information:------
+ID: 3421719
+Name:Narsaq
+----------------------------
+-----City information:------
+ID: 5742974
+Name:North Bend
+----------------------------
+-----City information:------
+ID: 3526674
+Name:Ixtepec
+----------------------------
+-----City information:------
+ID: 5849297
+Name:Kihei
+----------------------------
+-----City information:------
+ID: 2610343
+Name:Vestmanna
+----------------------------
+-----City information:------
+ID: 3644417
+Name:Ejido
+----------------------------
+-----City information:------
+ID: 3128382
+Name:Bejar
+----------------------------
+-----City information:------
+ID: 2013279
+Name:Vostok
+----------------------------
+-----City information:------
+ID: 3354071
+Name:Oranjemund
+----------------------------
+-----City information:------
+ID: 6145951
+Name:Shellbrook
+----------------------------
+-----City information:------
+ID: 3451241
+Name:Rio Brilhante
+----------------------------
+-----City information:------
+ID: 3450843
+Name:Rubiataba
+----------------------------
+-----City information:------
+ID: 898947
+Name:Senanga
+----------------------------
+-----City information:------
+ID: 2527087
+Name:Tiznit
+----------------------------
+-----City information:------
+ID: 1039536
+Name:Maxixe
+----------------------------
+-----City information:------
+ID: 2173323
+Name:Bundaberg
+----------------------------
+-----City information:------
+ID: 5905393
+Name:Bonavista
+----------------------------
+-----City information:------
+ID: 2156643
+Name:Mount Gambier
+----------------------------
+-----City information:------
+ID: 2209055
+Name:Waddan
+----------------------------
+-----City information:------
+ID: 5134295
+Name:Rome
+----------------------------
+-----City information:------
+ID: 967106
+Name:Oudtshoorn
+----------------------------
+-----City information:------
+ID: 4256426
+Name:Dale
+----------------------------
+-----City information:------
+ID: 2522875
+Name:Trapani
+----------------------------
+-----City information:------
+ID: 478769
+Name:Urdoma
+----------------------------
+-----City information:------
+ID: 3573374
+Name:The Valley
+----------------------------
+-----City information:------
+ID: 2122783
+Name:Katangli
+----------------------------
+-----City information:------
+ID: 3403687
+Name:Camocim
+----------------------------
+-----City information:------
+ID: 2027042
+Name:Batagay-Alyta
+----------------------------
+-----City information:------
+ID: 2015686
+Name:Talakan
+----------------------------
+-----City information:------
+ID: 3694112
+Name:Paita
+----------------------------
+-----City information:------
+ID: 2157698
+Name:Mildura
+----------------------------
+-----City information:------
+ID: 373141
+Name:Kaduqli
+----------------------------
+-----City information:------
+ID: 2033536
+Name:Yakeshi
+----------------------------
+-----City information:------
+ID: 4088628
+Name:Saraland
+----------------------------
+-----City information:------
+ID: 1716589
+Name:Culaman
+----------------------------
+-----City information:------
+ID: 1805733
+Name:Jinchang
+----------------------------
+-----City information:------
+ID: 5888001
+Name:Atikokan
+----------------------------
+-----City information:------
+ID: 1082243
+Name:Ambilobe
+----------------------------
+-----City information:------
+ID: 2032614
+Name:Baruun-Urt
+----------------------------
+-----City information:------
+ID: 5887916
+Name:Athabasca
+----------------------------
+-----City information:------
+ID: 2122104
+Name:Petropavlovsk-Kamchatsky
+----------------------------
+-----City information:------
+ID: 2122493
+Name:Omsukchan
+----------------------------
+-----City information:------
+ID: 2138555
+Name:Poum
+----------------------------
+-----City information:------
+ID: 3932145
+Name:Pisco
+----------------------------
+-----City information:------
+ID: 3374083
+Name:Bathsheba
+----------------------------
+-----City information:------
+ID: 2629833
+Name:Husavik
+----------------------------
+-----City information:------
+ID: 3980125
+Name:Villa Union
+----------------------------
+-----City information:------
+ID: 2013216
+Name:Vysokogornyy
+----------------------------
+-----City information:------
+ID: 2038421
+Name:Bayan
+----------------------------
+-----City information:------
+ID: 5847411
+Name:Kahului
+----------------------------
+-----City information:------
+ID: 1214026
+Name:Sabang
+----------------------------
+-----City information:------
+ID: 187896
+Name:Mandera
+----------------------------
+-----City information:------
+ID: 1735902
+Name:Sibu
+----------------------------
+-----City information:------
+ID: 553766
+Name:Kamenka
+----------------------------
+-----City information:------
+ID: 2027968
+Name:Aldan
+----------------------------
+-----City information:------
+ID: 142255
+Name:Bafq
+----------------------------
+-----City information:------
+ID: 3407378
+Name:Aracati
+----------------------------
+-----City information:------
+ID: 2937959
+Name:Bone
+----------------------------
+-----City information:------
+ID: 5983720
+Name:Iqaluit
+----------------------------
+-----City information:------
+ID: 1259385
+Name:Port Blair
+----------------------------
+-----City information:------
+ID: 3665016
+Name:Benjamin Constant
+----------------------------
+-----City information:------
+ID: 3804949
+Name:Guasdualito
+----------------------------
+-----City information:------
+ID: 5386754
+Name:Redlands
+----------------------------
+-----City information:------
+ID: 3386177
+Name:Trairi
+----------------------------
+-----City information:------
+ID: 2126123
+Name:Chokurdakh
+----------------------------
+-----City information:------
+ID: 1641977
+Name:Kalianget
+----------------------------
+-----City information:------
+ID: 2178753
+Name:Kirakira
+----------------------------
+-----City information:------
+ID: 2122574
+Name:Ola
+----------------------------
+-----City information:------
+ID: 1490256
+Name:Talnakh
+----------------------------
+-----City information:------
+ID: 1529376
+Name:Korla
+----------------------------
+-----City information:------
+ID: 1732420
+Name:Abis
+----------------------------
+-----City information:------
+ID: 2409914
+Name:Bonthe
+----------------------------
+-----City information:------
+ID: 3833112
+Name:Veinticinco de Mayo
+----------------------------
+-----City information:------
+ID: 2134814
+Name:Sola
+----------------------------
+-----City information:------
+ID: 5896969
+Name:Beaverlodge
+----------------------------
+-----City information:------
+ID: 2094027
+Name:Kieta
+----------------------------
+-----City information:------
+ID: 2984050
+Name:Remiremont
+----------------------------
+-----City information:------
+ID: 1853174
+Name:Sakaiminato
+----------------------------
+-----City information:------
+ID: 6167817
+Name:Torbay
+----------------------------
+-----City information:------
+ID: 1123004
+Name:Taloqan
+----------------------------
+-----City information:------
+ID: 3423146
+Name:Ilulissat
+----------------------------
+-----City information:------
+ID: 1283217
+Name:Khanbari
+----------------------------
+-----City information:------
+ID: 2038067
+Name:Chifeng
+----------------------------
+-----City information:------
+ID: 604490
+Name:Lulea
+----------------------------
+-----City information:------
+ID: 214614
+Name:Kamina
+----------------------------
+-----City information:------
+ID: 2077895
+Name:Alice Springs
+----------------------------
+-----City information:------
+ID: 153955
+Name:Micheweni
+----------------------------
+-----City information:------
+ID: 2012956
+Name:Yerbogachen
+----------------------------
+-----City information:------
+ID: 53654
+Name:Mogadishu
+----------------------------
+-----City information:------
+ID: 5134086
+Name:Rochester
+----------------------------
+-----City information:------
+ID: 5847486
+Name:Kailua
+----------------------------
+-----City information:------
+ID: 6690296
+Name:Saint-Joseph
+----------------------------
+-----City information:------
+ID: 3445026
+Name:Vila Velha
+----------------------------
+-----City information:------
+ID: 174775
+Name:Shahumyan
+----------------------------
+-----City information:------
+ID: 1580830
+Name:Hoa Binh
+----------------------------
+-----City information:------
+ID: 1235846
+Name:Matara
+----------------------------
+-----City information:------
+ID: 2396853
+Name:Omboue
+----------------------------
+-----City information:------
+ID: 935215
+Name:Saint-Philippe
+----------------------------
+-----City information:------
+ID: 1587923
+Name:Bien Hoa
+----------------------------
+-----City information:------
+ID: 3175096
+Name:Laas
+----------------------------
+-----City information:------
+ID: 2686469
+Name:OErnskoeldsvik
+----------------------------
+-----City information:------
+ID: 2729907
+Name:Longyearbyen
+----------------------------
+-----City information:------
+ID: 2239862
+Name:Malanje
+----------------------------
+-----City information:------
+ID: 2027316
+Name:Ayan
+----------------------------
+-----City information:------
+ID: 5387494
+Name:Ridgecrest
+----------------------------
+-----City information:------
+ID: 102527
+Name:Sakakah
+----------------------------
+-----City information:------
+ID: 1177446
+Name:Gwadar
+----------------------------
+-----City information:------
+ID: 1525988
+Name:Ayagoz
+----------------------------
+-----City information:------
+ID: 300640
+Name:Sirnak
+----------------------------
+-----City information:------
+ID: 2270258
+Name:Canico
+----------------------------
+-----City information:------
+ID: 3654410
+Name:Manta
+----------------------------
+-----City information:------
+ID: 3386931
+Name:Tamandare
+----------------------------
+-----City information:------
+ID: 3664539
+Name:Coari
+----------------------------
+-----City information:------
+ID: 1272140
+Name:Dwarka
+----------------------------
+-----City information:------
+ID: 610298
+Name:Beyneu
+----------------------------
+-----City information:------
+ID: 2121385
+Name:Severo-Kuril'sk
+----------------------------
+-----City information:------
+ID: 1817240
+Name:Baiyin
+----------------------------
+-----City information:------
+ID: 2304548
+Name:Anloga
+----------------------------
+-----City information:------
+ID: 3388760
+Name:Sao Geraldo do Araguaia
+----------------------------
+-----City information:------
+ID: 6144312
+Name:Sept-Iles
+----------------------------
+-----City information:------
+ID: 1812256
+Name:Dongsheng
+----------------------------
+-----City information:------
+ID: 3846915
+Name:Libertador General San Martin
+----------------------------
+-----City information:------
+ID: 3404558
+Name:Cabedelo
+----------------------------
+-----City information:------
+ID: 4278890
+Name:Salina
+----------------------------
+-----City information:------
+ID: 3939761
+Name:Hualmay
+----------------------------
+-----City information:------
+ID: 2450173
+Name:Taoudenni
+----------------------------
+-----City information:------
+ID: 2654970
+Name:Brae
+----------------------------
+-----City information:------
+ID: 2632287
+Name:Dalvik
+----------------------------
+-----City information:------
+ID: 1242110
+Name:Kalmunai
+----------------------------
+-----City information:------
+ID: 2270380
+Name:Camara de Lobos
+----------------------------
+-----City information:------
+ID: 2636790
+Name:Stornoway
+----------------------------
+-----City information:------
+ID: 6620339
+Name:Karratha
+----------------------------
+-----City information:------
+ID: 1847947
+Name:Shingu
+----------------------------
+-----City information:------
+ID: 2400547
+Name:Gamba
+----------------------------
+-----City information:------
+ID: 1494907
+Name:Plast
+----------------------------
+-----City information:------
+ID: 5850511
+Name:Makaha
+----------------------------
+-----City information:------
+ID: 3443061
+Name:Chui
+----------------------------
+-----City information:------
+ID: 3893629
+Name:Coquimbo
+----------------------------
+-----City information:------
+ID: 964712
+Name:Plettenberg Bay
+----------------------------
+-----City information:------
+ID: 1337619
+Name:Ugoofaaru
+----------------------------
+-----City information:------
+ID: 686090
+Name:Asau
+----------------------------
+-----City information:------
+ID: 2013465
+Name:Verkhoyansk
+----------------------------
+-----City information:------
+ID: 5887798
+Name:Assiniboia
+----------------------------
+-----City information:------
+ID: 587450
+Name:Vastseliina
+----------------------------
+-----City information:------
+ID: 974719
+Name:Molteno
+----------------------------
+-----City information:------
+ID: 1185251
+Name:Lalmohan
+----------------------------
+-----City information:------
+ID: 1283285
+Name:Jumla
+----------------------------
+-----City information:------
+ID: 2477537
+Name:Tazmalt
+----------------------------
+-----City information:------
+ID: 3437062
+Name:San Juan del Parana
+----------------------------
+-----City information:------
+ID: 1337617
+Name:Muli
+----------------------------
+-----City information:------
+ID: 3109718
+Name:Santander
+----------------------------
+-----City information:------
+ID: 711621
+Name:Borova
+----------------------------
+-----City information:------
+ID: 1512342
+Name:Almazar
+----------------------------
+-----City information:------
+ID: 2100633
+Name:Arawa
+----------------------------
+-----City information:------
+ID: 3126369
+Name:Carballo
+----------------------------
+-----City information:------
+ID: 1090467
+Name:Boueni
+----------------------------
+-----City information:------
+ID: 1214488
+Name:Meulaboh
+----------------------------
+-----City information:------
+ID: 2065594
+Name:Mount Isa
+----------------------------
+-----City information:------
+ID: 3115824
+Name:Muros
+----------------------------
+-----City information:------
+ID: 2128975
+Name:Nemuro
+----------------------------
+-----City information:------
+ID: 6096551
+Name:Pangnirtung
+----------------------------
+-----City information:------
+ID: 5821593
+Name:Cody
+----------------------------
+-----City information:------
+ID: 3163146
+Name:Andenes
+----------------------------
+-----City information:------
+ID: 1538648
+Name:Toktogul
+----------------------------
+-----City information:------
+ID: 3372472
+Name:Vila Franca do Campo
+----------------------------
+-----City information:------
+ID: 245669
+Name:Adre
+----------------------------
+-----City information:------
+ID: 1488429
+Name:Uray
+----------------------------
+-----City information:------
+ID: 3132644
+Name:Varhaug
+----------------------------
+-----City information:------
+ID: 608270
+Name:Shubarshi
+----------------------------
+-----City information:------
+ID: 3838859
+Name:Rio Gallegos
+----------------------------
+-----City information:------
+ID: 933416
+Name:Manyana
+----------------------------
+-----City information:------
+ID: 2125906
+Name:Dukat
+----------------------------
+-----City information:------
+ID: 3393692
+Name:Itarema
+----------------------------
+-----City information:------
+ID: 5383777
+Name:Pleasanton
+----------------------------
+-----City information:------
+ID: 1640902
+Name:Kawalu
+----------------------------
+-----City information:------
+ID: 3461425
+Name:Ilhabela
+----------------------------
+-----City information:------
+ID: 3922414
+Name:Camiri
+----------------------------
+-----City information:------
+ID: 4845585
+Name:Westport
+----------------------------
+-----City information:------
+ID: 3373652
+Name:Oistins
+----------------------------
+-----City information:------
+ID: 56399
+Name:Jamame
+----------------------------
+-----City information:------
+ID: 2902768
+Name:Hof
+----------------------------
+-----City information:------
+ID: 612230
+Name:Sagarejo
+----------------------------
+-----City information:------
+ID: 1259395
+Name:Porbandar
+----------------------------
+-----City information:------
+ID: 1684803
+Name:Tabuk
+----------------------------
+-----City information:------
+ID: 1185095
+Name:Teknaf
+----------------------------
+-----City information:------
+ID: 2158767
+Name:Mareeba
+----------------------------
+-----City information:------
+ID: 3468352
+Name:Cacu
+----------------------------
+-----City information:------
+ID: 524243
+Name:Murygino
+----------------------------
+-----City information:------
+ID: 3456125
+Name:Nova Prata
+----------------------------
+-----City information:------
+ID: 2132606
+Name:Samarai
+----------------------------
+-----City information:------
+ID: 3092472
+Name:Malbork
+----------------------------
+-----City information:------
+ID: 153871
+Name:Mikumi
+----------------------------
+-----City information:------
+ID: 152451
+Name:Musoma
+----------------------------
+-----City information:------
+ID: 4333811
+Name:Morgan City
+----------------------------
+-----City information:------
+ID: 371745
+Name:Kutum
+----------------------------
+-----City information:------
+ID: 3105885
+Name:Vilanova del Cami
+----------------------------
+-----City information:------
+ID: 3792394
+Name:Mapiripan
+----------------------------
+-----City information:------
+ID: 5870133
+Name:Nome
+----------------------------
+-----City information:------
+ID: 2469140
+Name:Masakin
+----------------------------
+-----City information:------
+ID: 2013399
+Name:Vikhorevka
+----------------------------
+-----City information:------
+ID: 3520994
+Name:Puerto Escondido
+----------------------------
+-----City information:------
+ID: 1244926
+Name:Hambantota
+----------------------------
+-----City information:------
+ID: 3491161
+Name:Bull Savanna
+----------------------------
+-----City information:------
+ID: 3466980
+Name:Caravelas
+----------------------------
+-----City information:------
+ID: 4231997
+Name:Avera
+----------------------------
+-----City information:------
+ID: 2020871
+Name:Lebedinyy
+----------------------------
+-----City information:------
+ID: 2147714
+Name:Sydney
+----------------------------
+-----City information:------
+ID: 6533368
+Name:Moranbah
+----------------------------
+-----City information:------
+ID: 3451138
+Name:Rio Grande
+----------------------------
+-----City information:------
+ID: 1819729
+Name:Hong Kong
+----------------------------
+-----City information:------
+ID: 2021093
+Name:Kuytun
+----------------------------
+-----City information:------
+ID: 1278969
+Name:Along
+----------------------------
+-----City information:------
+ID: 2172880
+Name:Byron Bay
+----------------------------
+-----City information:------
+ID: 157268
+Name:Kingori
+----------------------------
+-----City information:------
+ID: 3139765
+Name:Setermoen
+----------------------------
+-----City information:------
+ID: 2012349
+Name:Krasnyy Chikoy
+----------------------------
+-----City information:------
+ID: 239300
+Name:Gambo
+----------------------------
+-----City information:------
+ID: 2647311
+Name:Haverfordwest
+----------------------------
+-----City information:------
+ID: 2377450
+Name:Nouakchott
+----------------------------
+-----City information:------
+ID: 3670199
+Name:San Antero
+----------------------------
+-----City information:------
+ID: 2093846
+Name:Kiunga
+----------------------------
+-----City information:------
+ID: 2638419
+Name:Scarborough
+----------------------------
+-----City information:------
+ID: 3620266
+Name:Corn Island
+----------------------------
+-----City information:------
+ID: 290104
+Name:Sitrah
+----------------------------
+-----City information:------
+ID: 3652758
+Name:Puerto Baquerizo Moreno
+----------------------------
+-----City information:------
+ID: 1715335
+Name:Davila
+----------------------------
+-----City information:------
+ID: 5851349
+Name:Nanakuli
+----------------------------
+-----City information:------
+ID: 6355222
+Name:Yulara
+----------------------------
+-----City information:------
+ID: 3985710
+Name:Cabo San Lucas
+----------------------------
+-----City information:------
+ID: 3617154
+Name:Puerto Cabezas
+----------------------------
+-----City information:------
+ID: 1648082
+Name:Boyolangu
+----------------------------
+-----City information:------
+ID: 2155562
+Name:Nelson Bay
+----------------------------
+-----City information:------
+ID: 3430545
+Name:Moron
+----------------------------
+-----City information:------
+ID: 2094342
+Name:Kavieng
+----------------------------
+-----City information:------
+ID: 1630789
+Name:Pontianak
+----------------------------
+-----City information:------
+ID: 1582886
+Name:Kwang Binh
+----------------------------
+-----City information:------
+ID: 1260771
+Name:Palasa
+----------------------------
+-----City information:------
+ID: 1056899
+Name:Sambava
+----------------------------
+-----City information:------
+ID: 463655
+Name:Zenzeli
+----------------------------
+-----City information:------
+ID: 1835848
+Name:Seoul
+----------------------------
+-----City information:------
+ID: 3356213
+Name:Khorixas
+----------------------------
+-----City information:------
+ID: 6621033
+Name:Grand Falls
+----------------------------
+-----City information:------
+ID: 305681
+Name:Kumluca
+----------------------------
+-----City information:------
+ID: 1630639
+Name:Pringsewu
+----------------------------
+-----City information:------
+ID: 1626542
+Name:Sorong
+----------------------------
+-----City information:------
+ID: 3355672
+Name:Luderitz
+----------------------------
+-----City information:------
+ID: 1688696
+Name:San Policarpo
+----------------------------
+-----City information:------
+ID: 3372760
+Name:Praia da Vitoria
+----------------------------
+-----City information:------
+ID: 1651810
+Name:Airai
+----------------------------
+-----City information:------
+ID: 934517
+Name:Flic en Flac
+----------------------------
+-----City information:------
+ID: 1263997
+Name:Mahabalipuram
+----------------------------
